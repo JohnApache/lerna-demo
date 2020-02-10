@@ -1,6 +1,10 @@
 {
   "name": "root",
   "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohnApache/lerna-demo.git"
+  },
   "devDependencies": {
     "lerna": "^3.20.2"
   }
