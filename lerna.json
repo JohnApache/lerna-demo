@@ -2,8 +2,10 @@
   "packages": [
     "packages/*"
   ],
-  "publishConfig": {
-    "access": "public"
+  "command": {
+    "publish": {
+      "access": "public"
+    }
   },
   "version": "0.0.8"
 }
