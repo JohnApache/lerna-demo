@@ -1,0 +1,29 @@
+{
+  "name": "module-2",
+  "version": "0.0.1",
+  "description": "module-2",
+  "author": "cjw <1468733552@qq.com>",
+  "homepage": "https://github.com/JohnApache/lerna-demo#readme",
+  "license": "MIT",
+  "main": "lib/module-2.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohnApache/lerna-demo.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/JohnApache/lerna-demo/issues"
+  },
+  "devDependencies": {
+    "@dking/dgit": "^0.0.9"
+  }
+}
