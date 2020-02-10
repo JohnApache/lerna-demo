@@ -1,4 +1,8 @@
-# [](https://github.com/JohnApache/lerna-demo/compare/v0.0.3...v) (2020-02-10)
+# [](https://github.com/JohnApache/lerna-demo/compare/v0.0.4...v) (2020-02-10)
+
+
+
+## [0.0.4](https://github.com/JohnApache/lerna-demo/compare/v0.0.3...v0.0.4) (2020-02-10)
 
 
 
