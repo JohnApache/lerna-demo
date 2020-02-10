@@ -1,4 +1,17 @@
-# [](https://github.com/JohnApache/lerna-demo/compare/v0.0.7...v) (2020-02-10)
+# [](https://github.com/JohnApache/lerna-demo/compare/v0.0.9...v) (2020-02-10)
+
+
+
+## [0.0.9](https://github.com/JohnApache/lerna-demo/compare/v0.0.8...v0.0.9) (2020-02-10)
+
+
+
+## [0.0.8](https://github.com/JohnApache/lerna-demo/compare/v0.0.7...v0.0.8) (2020-02-10)
+
+
+### Bug Fixes
+
+* fix lerna publish error ([8db500b](https://github.com/JohnApache/lerna-demo/commit/8db500b14b21faf510a7038dc4323e2eec5c3de7))
 
 
 
