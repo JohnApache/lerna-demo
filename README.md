@@ -1,2 +1,2 @@
 # lerna-demo
-test lerna and git commitizen
+test lerna and git commitizen.
