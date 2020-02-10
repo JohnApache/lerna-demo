@@ -9,6 +9,6 @@
     "lerna": "^3.20.2"
   },
   "scripts": {
-    "version": "conventional-changelog  -p angular -i CHANGELOG.md -s -r 0  && git add CHANGELOG.md"
+    "versions": "conventional-changelog  -p angular -i CHANGELOG.md -s -r 0  && git add CHANGELOG.md"
   }
 }
