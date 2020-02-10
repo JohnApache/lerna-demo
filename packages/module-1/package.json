@@ -1,5 +1,5 @@
 {
-  "name": "module-1",
+  "name": "@dking/module-1",
   "version": "0.0.6",
   "description": "module-1",
   "author": "cjw <1468733552@qq.com>",
@@ -28,5 +28,5 @@
     "@dking/event-proxy": "^1.0.1",
     "@dking/hasaki-cli": "^0.0.8"
   },
-  "gitHead": "0498268fc4c1c67fa99f47e2c8bf4810ce0212ab"
+  "gitHead": "028209789d311707e3adc56620f79944dc9dca2b"
 }
