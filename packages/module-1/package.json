@@ -28,5 +28,8 @@
     "@dking/event-proxy": "^1.0.1",
     "@dking/hasaki-cli": "^0.0.8"
   },
-  "gitHead": "da0e7059889723e84999b38db0f466211ca2fb0e"
+  "publishConfig": {
+    "access": "public"
+  },
+  "gitHead": "4bcd69584e239ec228af9d171ccfe03c8f2e74f7"
 }
