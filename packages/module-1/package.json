@@ -27,5 +27,6 @@
     "@dking/dgit": "^0.0.9",
     "@dking/event-proxy": "^1.0.1",
     "@dking/hasaki-cli": "^0.0.8"
-  }
+  },
+  "gitHead": "2f676b129571707628fdbf0ebcc41c08b5f098de"
 }

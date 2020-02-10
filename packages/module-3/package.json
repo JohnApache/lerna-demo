@@ -25,5 +25,6 @@
   },
   "devDependencies": {
     "@dking/dgit": "^0.0.9"
-  }
+  },
+  "gitHead": "2f676b129571707628fdbf0ebcc41c08b5f098de"
 }
