@@ -1,4 +1,26 @@
-# [](https://github.com/JohnApache/lerna-demo/compare/v0.0.4...v) (2020-02-10)
+# [](https://github.com/JohnApache/lerna-demo/compare/v0.0.7...v) (2020-02-10)
+
+
+
+## [0.0.7](https://github.com/JohnApache/lerna-demo/compare/v0.0.6...v0.0.7) (2020-02-10)
+
+
+### Features
+
+* delete modules ([f3a3ac0](https://github.com/JohnApache/lerna-demo/commit/f3a3ac0173846d5ff21dc6af4e968a00ad025031))
+
+
+### BREAKING CHANGES
+
+* delete modules
+
+
+
+## [0.0.6](https://github.com/JohnApache/lerna-demo/compare/v0.0.5...v0.0.6) (2020-02-10)
+
+
+
+## [0.0.5](https://github.com/JohnApache/lerna-demo/compare/v0.0.4...v0.0.5) (2020-02-10)
 
 
 
