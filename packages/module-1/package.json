@@ -24,6 +24,8 @@
     "url": "https://github.com/JohnApache/lerna-demo/issues"
   },
   "devDependencies": {
-    "@dking/event-proxy": "^1.0.1"
+    "@dking/dgit": "^0.0.9",
+    "@dking/event-proxy": "^1.0.1",
+    "@dking/hasaki-cli": "^0.0.8"
   }
 }
